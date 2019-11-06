@@ -18,4 +18,4 @@ python CUH.py
 ```
 __NOTE :- Your python should be in same directory as the file.__<br>
 
-![Screen Shot]('password_finder.PNG')
+![Screen Shot](https://github.com/kushagra414/CUH-Password-Finder/blob/master/password_finder.PNG)
