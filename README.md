@@ -5,7 +5,7 @@ I have implemented a gui, so you just need to give the range for roll number and
 ___
 ## Pre-requisites:
 - You need python 3.0+ version to run the code.
-- After installing python you need to install selenium, you have to install Selenium using pip package manager. You can do so by running this command in Command Prompt or terminal :-
+- After installing python you can install selenium, you have to install Selenium using pip package manager. You can do so by running this command in Command Prompt or terminal :-
 ```python
 pip install selenium
 ```
