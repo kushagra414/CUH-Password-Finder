@@ -11,7 +11,7 @@ pip install selenium
 ```
 - You should also have Mozilla Firefox Browser installed on your PC.<br>
 ## OR
-- If you are running Windows OS you can just install the file `CUH-Password-Finder.exe`.  :thumbsup:
+- If you are running Windows OS you can just run the file `CUH-Password-Finder.exe`.  :thumbsup:
 ___
 ## Running the code
 - You can run the code using this command on command prompt
